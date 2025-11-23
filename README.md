@@ -1,5 +1,26 @@
-# Base de Datos
-Guía práctica con ejercicios resueltos de SQL de la materia Base de Datos UNLaM (3636). Realizados en el Segundo Cuatrimestre 2022.
+# Bases de Datos
+Guía práctica con ejercicios resueltos de SQL de la materia Bases de Datos UNLaM (3636). Realizados en el Segundo Cuatrimestre 2022.
+
+## Información de la Asignatura
+* **Carrera**: Ingeniería en Informática
+* **Materia**: Bases de Datos (3670)
+* **Cuatrimestre**: Segundo Cuatrimestre
+* **Año**: 2022
+
+## Trayecto Programación
+* **Año Académico**: Segundo Año - Primer Cuatrimestre
+* **Responsable / Jefe de catedra**: Ichazo, Veronica
+* **Carga Horaria Semanal**: 4 hs
+* **Carga Horaria Total**: 64 hs
+* **Modalidad**: Virtual
+* **Correlativas anteriores**
+  * Matemática Discreta (3621)
+  * Programación Estructurada Básica (3629)
+ 
+## Docentes
+* Halil, Hernan
+* Palomares, Alfonso
+* Ybarra, Fernando
 
 ## Contenidos :open_book:
 * Estructura
