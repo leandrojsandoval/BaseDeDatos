@@ -7,7 +7,7 @@ Guía práctica con ejercicios resueltos de SQL de la materia Bases de Datos UNL
 * **Cuatrimestre**: Segundo Cuatrimestre
 * **Año**: 2022
 
-## Trayecto Programación
+## Trayecto - Programación
 * **Año Académico**: Segundo Año - Primer Cuatrimestre
 * **Responsable / Jefe de catedra**: Ichazo, Veronica
 * **Carga Horaria Semanal**: 4 hs
